@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nanalin/Desktop/c programming/EECS 348/assignment2/chatgpt'
+relocations:     []
+...
